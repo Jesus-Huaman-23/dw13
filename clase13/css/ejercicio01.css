@@ -1,0 +1,98 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color:rgb(54, 15, 15);
+}
+h1{
+    text-align: center;
+    color: orange;
+    text-shadow: 3px 3px 5px #f00,
+                 6px 6px 5px white,
+                 9px 9px 5px  black;
+}
+
+/*header{
+    background-color:blue;
+    border: 2px solid blue;
+    border-radius: 10px;
+    width: 400px;
+    margin:50px auto;  
+}*/
+
+.encabezado{
+    text-align: center;
+    color: white;
+    background-color:blue;
+    border: 2px solid blue;
+    border-radius: 10px;
+    width: 410px;
+    margin: 50px auto; 
+}
+
+ul li {
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    background-color:blue;
+    border: 2px solid blue;
+    border-radius: 10px;
+    width: 410px;
+    margin: -43px auto ; 
+    list-style-type: none;
+}
+main{
+    background-color: white;
+    width: 400px;
+    height: 180px;
+    border-radius: 10px;
+    margin: 50px auto;
+    padding: 5px;
+}
+.seccion{
+    text-align: center;
+    color: white;
+    background-color: blue;
+    height: 180px;
+    width: 250px;
+    border-radius: 10px;  
+    padding: 1px;  
+}
+.articulos{
+    color: white;
+    border: 1px solid blue;
+    background-color:midnightblue;
+    border-radius: 10px;
+    height: 155px;
+    width: 247px;
+}
+.aside{
+    text-align: center;
+    color: white;
+    background-color: blue;
+    height: 184px;
+    width:  148px;
+    border-radius: 10px;
+    margin-inline-start: 255px;
+    margin-top: -183px;  
+}
+.footer{
+    text-align: center;
+    color: white;
+    background-color:blue;
+    border: 2px solid blue;
+    border-radius: 10px;
+    width: 410px;
+    margin: 50px auto; 
+    margin-top: -44px;
+    
+}
+
+
+
+
+
+
+
+

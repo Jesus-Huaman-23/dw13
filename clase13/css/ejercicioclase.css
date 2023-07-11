@@ -1,0 +1,25 @@
+body{
+    background-color: cornflowerblue;
+}
+#primero{
+    background-color: aquamarine;
+    border: 2px solid red;
+    width: 200px;
+    height: 200px;
+    margin:50px auto;
+    padding: 30px;
+    border-radius: 20px;
+    box-shadow: -10px 5px 25px red;
+}
+h1{
+    text-shadow: 3px 3px 5px #f00,
+    6px 6px 5px #0f0,
+    9px 9px 5px #00f;
+}
+p{
+    font-size: 16px;
+    text-align: center;
+    font-family: Arial;
+    font-style: italic;  
+}
+

@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+
+    background-color: crimson ;
+}
+
+h2 {
+    color: black;
+}
+
+nav ul li {
+    background-color: rgb(189, 78, 233);
+    text-align: center;
+    border: 2px solid black;
+    color: white;
+    padding: 8px;
+    width: 150px;
+    margin: 10px;
+    border-radius: 20px;
+    box-shadow: 4px 2px 1px 0px black;
+}
+
+nav ul :hover {
+    background-color: blue;
+    color: #757575;
+}
+
+a{
+    color: white;
+    text-decoration: none; 
+}
